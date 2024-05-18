@@ -1,0 +1,25 @@
+{
+  "name": "calculator_code_by_razamughal",
+  "version": "1.0.1",
+  "description": "Code given by Raza Mughal",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "calculator_code_by_razamughal": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Raza Mughal",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.11"
+  },
+  "dependencies": {
+    "@types/chalk": "^2.2.0",
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.20"
+  }
+}
